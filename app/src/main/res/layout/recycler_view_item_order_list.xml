@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="item"
+            type="project_files.project_model.CartJSon" />
+    </data>
+
+    <TextView
+        android:id="@+id/category_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-condensed-medium"
+        android:gravity="center"
+        android:text='@{"Order #" + Integer.toString(item.id)}'
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/regular_text_size" />
+
+</layout>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Shopping Spree</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="telephone">Telephone</string>
+    <string name="city">City</string>
+    <string name="street">Street</string>
+    <string name="number">Number</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="email">Email Address</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="about">About</string>
+    <string name="datasource">Datasource:</string>
+    <string name="fake_store_api">Fake Store API</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="checkout">Checkout</string>
+    <string name="github">GitHub</string>
+    <string name="sourcecode">Sourcecode:</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="about_description">Online Shopping Android app was develop for my my final project for Mobile App class in Dorset College as part of the Semester2, Year 2 .</string>
+    <string name="about_creator">Creator: Madelin Vasquez</string>
+    <string name="about_date">Date: 08/05/2022</string>
+    <string name="update_cart">Update Cart</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="empty_cart">Empty Cart</string>
+    <string name="buy_again">Buy Again</string>
+    <string name="initial_value">0</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+</resources>
